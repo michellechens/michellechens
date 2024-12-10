@@ -1,7 +1,3 @@
-## Hi there 👋
-Welcome to my GitHub!
-I'm a frontend software engineer interested in web development and data science. I'm currently honing my skills in different frameworks.
-
 <!--
 **michellechens/michellechens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,15 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Tech Skills
-### Programming Languages
+### Hi there, it's Michelle 👋
+Welcome to my GitHub!
+
+I’m an experienced **Frontend Software Engineer** with over five years of expertise in web application development. I’ve contributed to medium and large-scale projects across industries like AI, finance, and telecommunications. My focus is on creating intuitive, user-centered interfaces with modern technologies.
+
+Beyond frontend development, I'm continuously expanding my knowledge in data science and backend skills. I enjoy tackling technical challenges, whether working independently or collaborating with teams. This space showcases my dedication to ongoing learning, growth, and delivering practical solutions.
+
+Please feel free to explore my repositories, and don’t hesitate to connect if you’d like to collaborate or share ideas!
+
+You can find me on: 
+<a href="https://www.linkedin.com/in/chenyenjung/" target="_blank">Linkedin</a> | <a href="https://michellechens.github.io/portfolio/">Portfolio</a>
+
+---
+
+### 🛠️ Tech Skills
+#### Programming Languages
 <div>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" />
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
 </div>
 
-### Frontend
+#### Frontend
 <div>
     <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=222222" />
     <img alt="React Native" src="https://img.shields.io/badge/-React Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -42,7 +52,7 @@ Here are some ideas to get you started:
     <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
 </div>
 
-### Backend
+#### Backend
 <div>
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
